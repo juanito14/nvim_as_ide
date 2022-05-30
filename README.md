@@ -1,9 +1,7 @@
 my nvim "as ide" configuration
 
-https://github.com/NvChad/NvChad
+1. https://github.com/NvChad/NvChad
 
-copy files from repo to ~/.config/nvim/lua/
+2. copy files from repo to ~/.config/nvim/lua/
 
-execute cmd :TSInstall cpp
-
-execute cmd :PackerInstall
+3. execute cmd :TSInstall cpp
