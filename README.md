@@ -1,7 +1,9 @@
-my nvim "as ide" configuration
+my nvim "as ide" configuration (c++ clang)
 
-1. https://github.com/NvChad/NvChad
+1. Install Packer (https://github.com/wbthomason/packer.nvim)
 
-2. copy files from repo to ~/.config/nvim/lua/
+2. copy files from repo to ~/.config/nvim/
 
-3. execute cmd :TSInstall cpp
+3. execute cmd :PackerSync
+
+4. execute cmd :TSInstall cpp
